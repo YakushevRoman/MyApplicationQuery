@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application Query</string>
+
+    <string name="all"> Все записи </string>
+    <string name="function"> Функция </string>
+    <string name="naselenie"> Население </string>
+    <string name="naselenie_po_regionu"> Население по региону > </string>
+    <string name="sort"> Сортировка </string>
+    <string name="name"> Наименование </string>
+    <string name="region"> Region </string>
+
+</resources>
